@@ -1,5 +1,2 @@
 _site/
 .DS_Store
-*.log
-*concordance.tex
-files/cache
