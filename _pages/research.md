@@ -7,32 +7,12 @@ author_profile: true
 
 <img src="/images/high-throughput.png" align="right" width="350">
 
-High-throughput genomics
+High-dimensional causal inference with presence of unobserved confounding
 ------ 
-Modern high-throughput [sequencing technologies](https://en.wikipedia.org/wiki/Functional_genomics) allow us to efficiently make all sorts of measurements genome-wide. These kinds of data have enormous potential for science and medicine, and present a variety of novel statistical challenges. I have a broad interest in genetics and genomics, including [genome-wide association studies](https://www.nature.com/articles/s41467-020-14791-2) and [CRISPR screens](https://doi.org/10.1101/2020.08.13.250092); such applications also motivate my methodological and theoretical research.
-
-
-High-dimensional variable selection
------- 
-[Genome-wide association studies](https://en.wikipedia.org/wiki/Genome-wide_association_study) exemplify the situation where we have many input variables (genetic variants) that can potentially affect the outcome variable (disease status), creating a challenging statistical problem. I have developed [theory](https://arxiv.org/abs/2005.05506) and [methods](https://arxiv.org/abs/2006.08482) for this problem, in the context of the Model-X framework introduced by [Candes et al](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12265).
+One of core goals of social and genetic sciences is to investigating how a treatment (e.g. [peer effect](https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/peer-effects#A), [gene expression](https://en.wikipedia.org/wiki/Gene_expression)) impacts the outcome of interest (e.g. income, clinical [phenotype](https://en.wikipedia.org/wiki/Phenotype)). Often, there are, inevitably, a lot of unobserved confounding variables which affect the treatment and outcome. Ignoring them will induce [spurious relationship](https://en.wikipedia.org/wiki/Spurious_relationship) and thus introduce bias when inferring the causal effect. Typically the treatment variable presents high-dimensionality in these applications, which pose more challenge. With the help of [instrumental variable](https://en.wikipedia.org/wiki/Instrumental_variables_estimation)(IV), a nice [two-stage estimation and inference framework](https://arxiv.org/abs/2204.00111) is developed to tackle such problem, under which the flexible modeling methods between IV and treatment are allowed. In a [mouse obesity dataset](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0020015), a set of new gene expressions in liver tissue that were not discovered before, are found to influence the weight of mouse.
 
 <p align="left">
-  <img src="/images/variable-selection.png" width="600">
+  <img src="/images/IVapplication.png" width="400">
 </p>
 
-Multiple testing
-------
-[Multiplicity](https://en.wikipedia.org/wiki/Multiple_comparisons_problem#Large-scale_multiple_testing) is a ubiquitous problem in genomics applications, creating various methodological challenges. One challenge is to incorporate the structure of the underlying biology into the multiple testing procedure. For example, the genome has spatial structure, and biological networks have graphical structures. I've developed methodology for multiple testing problems involving [group structure](https://projecteuclid.org/euclid.aoas/1554861639) and [graph structure](https://arxiv.org/abs/1809.01792).
-
-<p align="center">
-  <img src="/images/multiple-testing.png" width="600">
-</p>
-
-Reconciling exploration and inference
------- 
-As new technologies facilitate faster and cheaper data collection, scientists increasingly use data for *generating* (as opposed to confirming) hypotheses. Data exploration is an integral step in hypothesis-generating research, but is at odds with standard statistical significance guarantees. Nevertheless, statistical guarantees are important to ensure the quality of the hypotheses chosen for confirmation. Reconciling exploration with inference is therefore an important statistical challenge. I have proposed [a means for doing this](https://arxiv.org/abs/1803.06790) in the context of [Goeman and Solari's](https://projecteuclid.org/euclid.ss/1330437937) simultaneous inference paradigm.
-
-<p align="center">
-  <img src="/images/selective-inference.png" width="600">
-</p>
 
