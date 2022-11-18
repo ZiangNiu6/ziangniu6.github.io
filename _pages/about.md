@@ -11,9 +11,6 @@ redirect_from:
 About me
 ======
 
-I'm an assistant professor at Wharton's [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/). My [research](https://katsevich-lab.github.io/) centers on several interconnected themes, spanning statistical theory, methodology, and applications. I work on modern 
-**genomics** applications, which inspire me to consider methodological and theoretical problems in **high-dimensional variable selection, conditional independence testing, double/debiased machine learning, multiple testing, and selective inference.**
+I'm a master student at UPenn [Department of Mathematics](https://www.math.upenn.edu/) majoring in [Applied Mathematics](https://www.amcs.upenn.edu/). My [research](https://katsevich-lab.github.io/) centers on several interconnected themes, spanning statistical theory, methodology. I work on methodological and theoretical problems in **high-dimensional inference and its interaction with causal inference, conditional independence testing, distribution-free nonparametric testing, combinatorial statistics, and computational statistics.**
 
-I teach [STAT 4710 (Modern Data Mining)](https://katsevich-teaching.github.io/stat-4710-fall-2022/) and [STAT 9610 (Statistical Methodology)](https://katsevich-teaching.github.io/stat-9610-fall-2022/) at UPenn.
-
-In addition to teaching and research, I'm passionate about providing [resources and guidance](https://ekatsevi.github.io/resources/) for statistics students.
+In addition to research, I'm passionate about teaching and mentoring. I have been a mentor for [Undergraduate Research in Probability and Statistics](https://sites.google.com/view/urps-penn?pli=1) and [Directed Reading Program](https://www2.math.upenn.edu/~tbraz/drp/) programs at UPenn. 
