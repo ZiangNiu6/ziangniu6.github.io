@@ -11,7 +11,7 @@ title                    : "Ziang Niu"
 title_separator          : "-"
 name                     : &name "Ziang Niu"
 description              : &description "Statistician"
-url                      : https://ekatsevi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziangniu6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziangniu6.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ziang Niu"
-  avatar           : "Eugene_Katsevich.jpg"
-  bio              : "Assistant Professor at<br><a style='color: black;' href='https://statistics.wharton.upenn.edu/'>Wharton Department of Statistics and Data Science</a>"
+  avatar           : "ZiangNiu.jpeg"
+  bio              : "Master Student at<br><a style='color: black;' href='https://www.amcs.upenn.edu/'>Applied Mathematics and Computational Science at UPenn</a>"
   location         : "Philadelphia, PA"
   cv               : "https://ekatsevi.github.io/files/CV_Eugene_Katsevich.pdf"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xC13Kb4AAAAJ&hl=en"
-  email            : "ekatsevi@wharton.upenn.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=7ybUaFEAAAAJ&hl=zh-CN&oi=ao"
+  email            : "ziangniu@sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ekatsevi"
+  github           : "ZiangNiu6"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EugeneKatsevich"
+  twitter          : "MaxwellAng1"
   vine             :
   weibo            :
   xing             :
