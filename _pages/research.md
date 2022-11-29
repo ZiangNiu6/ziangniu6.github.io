@@ -7,7 +7,7 @@ author_profile: true
 
 Optimal transport meets independence testing
 ------ 
-[Optimal transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)) (OT) is widely studied in probability theory and has tons of applications in modern machine learning. Statistically, OT solve the problem that is, find a transform map such that the distribution distance between two empirical measures are minimized. Usually the distance function is chosen as the p-[Wasserstein distance](https://en.wikipedia.org/wiki/Wasserstein_metric). Intuitively, the target distribution can be used to define a rank since it can be viewed as a multivariate extension of one-dimensional rank. Mathematicall $a=1$ 
+[Optimal transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)) (OT) is widely studied in probability theory and has tons of applications in modern machine learning. Statistically, OT solve the problem that is, find a measurable transform map $T$ such that the distribution distance between two empirical measures $\mu_n,\nu_n$ are minimized. Usually the distance function is chosen as the p-[Wasserstein distance](https://en.wikipedia.org/wiki/Wasserstein_metric). The transformed data $\widehat{T}(\mu_n)$ can be intuitively regarded a multivariate rank. This is super clear for one-dimensional case: the population transform map $T$ is just the CDF of $\mu$ and the transformed data is just the reference data after resorting.
 
 <p align="left">
   <img src="/images/IVapplication.png" width="1000">
