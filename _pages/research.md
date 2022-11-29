@@ -14,7 +14,7 @@ Optimal transport meets independence testing
 </p>
 
 Then why is this idea appealing to nonparametric statistics community? Statisticians have searched for several decades to find a distribution-free independence test for multivariate data. There are so many proposed tests that it is too hard to even list all of their names. OT, as argued above, provides a fabulous proposal to solve such a long-standing open problem. The idea is as follows:
-1. Perform OT for two data matrix that need to be testing, and denote the resulting transformed data as $\widehat{T}_1(\mu_{n1}),\widehat{T}_2(\mu_{n2})$;
+1. Perform OT for two data matrix that need to be testing, and denote the resulting transformed data as $\widehat{T}_1(\mu_{n1})$;
 2. Plug them into any consistent test statistic, e.g. distance covariance, HSIC etc.
 
 Done! In step 1, one can choose any reference distribution and typical choices include uniform distribution, Gaussian distribution etc. Another question is when should we reject/accept the hypothesis? In other words, finding the cutoff is important. Previously, people often apply resampling-based or permutation-based to approximate the intractable limiting distribution (Often it is infinite sum of $\chi-$squared!), which requires heavy computation. Another marvelous property for using OT-based test is, only a finite number of permutations are needed to guarantee both finite sample type-I error and power against alternative (asymptotically). 
