@@ -19,7 +19,7 @@ Then why is this idea appealing to nonparametric statistics community? Statistic
 2. Perform OT for two data matrix that need to be testing to the reference distribution;
 3. Plug them into any consistent test statistic, e.g. distance covariance, HSIC etc.
 
-Done! In step 1, one can choose any reference distribution and typical choices include uniform distribution, Gaussian distribution etc. Another question is when should we reject/accept the hypothesis? In other words, finding the cutoff is important. Previously, people often apply resampling-based or permutation-based to approximate the intractable limiting distribution (Often it is infinite sum of $\chi-$squared!), which requires heavy computation. Another marvelous property for using OT-based test is, only a finite number of permutations are needed to guarantee both finite sample type-I error and power against alternative (asymptotically). 
+Done! In step 1, one can choose any reference distribution and typical choices include uniform distribution, Gaussian distribution etc. Another question is when should we reject/accept the hypothesis? In other words, finding the cutoff is important. Previously, people often apply resampling-based or permutation-based to approximate the intractable limiting distribution (Often it is infinite sum of $\chi$-squared!), which requires heavy computation. Another marvelous property for using OT-based test is, only a finite number of permutations are needed to guarantee both finite sample type-I error and power against alternative (asymptotically). 
 
 
 High-dimensional causal inference with presence of unobserved confounding 
