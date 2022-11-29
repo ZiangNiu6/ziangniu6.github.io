@@ -7,10 +7,10 @@ author_profile: true
 
 Optimal transport meets independence testing
 ------ 
-[Optimal transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)) (OT) is widely studied in probability theory and has tons of applications in modern machine learning. Statistically, OT solve the problem that is, find a measurable transform map $T$ such that the distribution distance between two empirical measures $\mu_n,\nu_n$ are minimized. Usually the distance function is chosen as the p-[Wasserstein distance](https://en.wikipedia.org/wiki/Wasserstein_metric). The transformed data $\widehat{T}(\mu_n)$ can be intuitively regarded a multivariate rank. This is super clear for one-dimensional case: the population transform map $T$ is just the CDF of $\mu$ and the transformed data is just the reference data after resorting.
+[Optimal transport](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)) (OT) is widely studied in probability theory and has tons of applications in modern machine learning. Statistically, OT solve the problem that is, find a measurable transform map $T$ such that the distribution distance between two empirical measures $\mu_n,\nu_n$ are minimized. Usually the distance function is chosen as the p-[Wasserstein distance](https://en.wikipedia.org/wiki/Wasserstein_metric). The transformed data $\widehat{T}(\mu_n)$ can be intuitively regarded a multivariate rank. This is super clear for one-dimensional case: the population transform map $T$ is just the CDF of $\mu$ and the transformed data is just the reference data after resorting. For multivariate case, the transformed data $\widehat{T}(\mu_n)$ does not correspond to a clear ordering of original data $\nu_n$ but can still be attractive to be viewed as rank of $\mu_n$. A figure from [Nabarun's](https://nabarund.github.io/) breakthrough [paper](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2021.1923508) is given below.
 
 <p align="left">
-  <img src="/images/IVapplication.png" width="1000">
+  <img src="/images/OT_figure.png" width="1000">
 </p>
 
 
