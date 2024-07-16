@@ -7,6 +7,8 @@ author_profile: true
 
 Statistics
 -======
+- Z. Niu, J. R. Choudhury, E. Katsevich. *Computationally efficient and statistically accurate conditional independence testing with spaCRT*. Preprint. ([paper](https://arxiv.org/abs/2407.08911))
+- Z. Niu, J. R. Choudhury, E. Katsevich. *The saddlepoint approximation for averages of conditionally independent random variables*. Preprint. ([paper](https://arxiv.org/pdf/2407.08915))
 - Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Preprint. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/Distribution-free-mutual-independence-test))
 - Z. Niu, A. Chakraborty, O. Dukes, E. Katsevich. *Reconciling model-X and doubly robust approaches to
 conditional independence testing*. To appear at **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [slides](https://ziangniu6.github.io/files/JSM2023.pdf), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1))
