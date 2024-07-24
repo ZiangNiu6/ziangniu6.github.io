@@ -7,6 +7,7 @@ author_profile: true
 
 Statistics
 -======
+- A. Chatterjee, Z. Niu, B. B. Bhattacharya. *A kernel-based conditional two-sample test using nearest neighbors (With applications to calibration, regression curves and simulation-based inference*. Preprint. ([paper](https://arxiv.org/pdf/2407.16550))
 - Z. Niu, J. R. Choudhury, E. Katsevich. *Computationally efficient and statistically accurate conditional independence testing with spaCRT*. Preprint. ([paper](https://arxiv.org/abs/2407.08911))
 - Z. Niu, J. R. Choudhury, E. Katsevich. *The saddlepoint approximation for averages of conditionally independent random variables*. Preprint. ([paper](https://arxiv.org/pdf/2407.08915))
 - Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Preprint. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/Distribution-free-mutual-independence-test))
