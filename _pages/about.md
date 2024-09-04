@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I'm a PhD student at the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), Wharton School of Business. My research centers on several interconnected themes, spanning statistical theory and methodology. Recently, I am fascinated about single-cell genomics application, which becomes a main driving force for my statistical research.
+I'm a PhD student at the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), Wharton School of Business. My research centers on several interconnected themes, spanning statistical theory and methodology. Recently, I am fascinated about single-cell genomics application, which has become a main driving force for my statistical research.
 
 I work on methodological and theoretical problems in **hypothesis testing with complex data and its computational aspect.** I am fortunate to work with Prof. [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/) and [Eugene Katsevich](https://ekatsevi.github.io/) on distribution-free nonparametric testing and conditional independent testing problems during my master. I was supervised by Dr. Wei Li and [Yuwen Gu](https://yuwen-gu.netlify.app/) for my undergraduate thesis. I was lucky to have Dr. [François-Xavier Briol](https://fxbriol.github.io/) as my research supervisor when I was an exchange student at UCL. My statistics research journey started during my visit to Prof. [Yi Yang](https://www.math.mcgill.ca/yyang/) when I was a sophomore student. 
 
