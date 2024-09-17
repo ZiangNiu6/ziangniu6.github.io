@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Ziang Niu"
@@ -82,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziang Niu"
-  avatar           : "ZiangNiu.jpg"
+  avatar           : "Figure.jpg"
   bio              : "PhD Student in <br><a style='color: black;' href='https://statistics.wharton.upenn.edu/'>Statistics  at Wharton</a>"
   location         : "Philadelphia, PA"
   cv               : "https://ziangniu6.github.io/files/CV.pdf"
