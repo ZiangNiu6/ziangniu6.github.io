@@ -7,7 +7,7 @@ author_profile: true
 
 Statistics
 -======
-- T. Barry, Z. Niu, E. Katsevich, X. Lin. *The permuted score test for robust differential expression analysis*. Preprint. ([paper](https://arxiv.org/pdf/2407.16550))
+- T. Barry, Z. Niu, E. Katsevich, X. Lin. *The permuted score test for robust differential expression analysis*. Preprint. ([paper](https://arxiv.org/pdf/2501.03530))
 - A. Chatterjee, Z. Niu, B. B. Bhattacharya. *A kernel-based conditional two-sample test using nearest neighbors (With applications to calibration, regression curves and simulation-based inference)*. Preprint. ([paper](https://arxiv.org/pdf/2407.16550), [code](https://github.com/anirbanc96/ECMMD-CondTwoSamp), [slides](https://ziangniu6.github.io/files/IMS_2024.pdf))
 - Z. Niu, J. R. Choudhury, E. Katsevich. *Computationally efficient and statistically accurate conditional independence testing with spaCRT*. Preprint. ([paper](https://arxiv.org/abs/2407.08911), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
 - Z. Niu, J. R. Choudhury, E. Katsevich. *The saddlepoint approximation for averages of conditionally independent random variables*. Preprint. ([paper](https://arxiv.org/pdf/2407.08915))
