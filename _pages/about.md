@@ -17,7 +17,7 @@ Statistically speaking, I work on methodological and theoretical problems in **h
 
 - **Large scale data due to technology advancement**.
 - **Small signal-to-noise ratio due to sparsity or heavy tail**.
-- **High-dimensionality and sensitivity to model misspecification**.
+- **High dimensionality and sensitivity to model misspecification**.
 
 
 Recently, I am fascinated about single-cell genomics application, which has become a main driving force for my statistical research. I have been working with Prof. [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/) and [Eugene Katsevich](https://ekatsevi.github.io/) at Wharton.
