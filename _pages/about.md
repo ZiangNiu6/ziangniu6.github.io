@@ -15,9 +15,9 @@ I'm a PhD student at the [Department of Statistics and Data Science](https://sta
 
 Statistically speaking, I work on methodological and theoretical problems in **hypothesis testing with complex data and its computational aspect.** Concretely speaking, my research centers on giving satisfactory and practical answer to scientific discovery. The particular challenges of cutting-edge application scenario can result from one or more of the following aspects:
 
-- **Sensitivity to model specification**: examples including increasing advocation of black-box models and doubly robust approaches.
-- **Small signal-to-noise ratio due to sparsity or heavy tail**: examples including single-cell genomics.
-- **Large scale nature due to technology advancement**: examples including ML application and single-cell genomics.
+- **Sensitivity to model specification**.
+- **Large scale nature due to technology advancement**.
+- **Small signal-to-noise ratio due to sparsity or heavy tail**.
 
 Recently, I am fascinated about single-cell genomics application, which has become a main driving force for my statistical research. I have been working with Prof. [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/) and [Eugene Katsevich](https://ekatsevi.github.io/) at Wharton.
 
