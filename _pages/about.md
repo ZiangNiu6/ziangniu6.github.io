@@ -16,7 +16,7 @@ I'm a PhD student at the [Department of Statistics and Data Science](https://sta
 Statistically speaking, I work on methodological and theoretical problems in **hypothesis testing with complex data and its computational aspect.** Concretely speaking, my research centers on giving satisfactory and practical answer to scientific discovery. The particular challenges of cutting-edge application scenario can result from one or more of the following aspects:
 
 - **Large scale data due to technology advancement**.
-- **Small signal-to-noise ratio due to sparsity or heavy tail**.
+- **Low signal-to-noise ratio due to sparsity or heavy tail**.
 - **High dimensionality and sensitivity to model misspecification**.
 
 
