@@ -15,7 +15,7 @@ Genomic/Genetic application-oriented methodologies
 -======
 - T. Barry, Z. Niu, E. Katsevich, X. Lin. *The permuted score test for robust differential expression analysis*. Preprint. ([paper](https://arxiv.org/pdf/2501.03530))
 - Z. Niu, J. R. Choudhury, E. Katsevich. *Computationally efficient and statistically accurate conditional independence testing with spaCRT*. Preprint. ([paper](https://arxiv.org/abs/2407.08911), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
-- S. Mukherjee, Z. Niu, S. Halder, B. B. Bhattacharya, G. Michailidis. *High Dimensional Logistic Regression Under Network Dependence*. To appear at **Journal of Machine Learning Research**. ([paper](https://arxiv.org/abs/2110.03200))
+- S. Mukherjee, Z. Niu, S. Halder, B. B. Bhattacharya, G. Michailidis. *High Dimensional Logistic Regression Under Network Dependence*. **Journal of Machine Learning Research**. ([paper](https://arxiv.org/abs/2110.03200))
 - Z. Niu, Y. Gu, W. Li. *Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression*. Major revision at **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2204.00111), [slides](https://ziangniu6.github.io/files/HDIV_additive_Slides.pdf))
 
 Computationally efficient testing methods
@@ -28,7 +28,7 @@ Robust and powerful hypothesis testing methods
 -======
 - Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Major revision at **Journal of the American Statistical Association**. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/Distribution-free-mutual-independence-test))
 - Z. Niu, A. Chakraborty, O. Dukes, E. Katsevich. *Reconciling model-X and doubly robust approaches to
-conditional independence testing*. To appear at **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [slides](https://ziangniu6.github.io/files/Larry_Brown_award_2024.pdf), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1))
+conditional independence testing*. **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [slides](https://ziangniu6.github.io/files/Larry_Brown_award_2024.pdf), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1))
 
 
 Probabilistical tools
