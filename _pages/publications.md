@@ -14,7 +14,7 @@ Single-cell genomics research
 Genomic/Genetic application-oriented methodologies
 -======
 - T. Barry, Z. Niu, E. Katsevich, X. Lin. *The permuted score test for robust differential expression analysis*. Preprint. ([paper](https://arxiv.org/pdf/2501.03530))
-- Z. Niu, J. R. Choudhury, E. Katsevich. *Computationally efficient and statistically accurate conditional independence testing with spaCRT*. Preprint. ([paper](https://arxiv.org/abs/2407.08911), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
+- Z. Niu, J. R. Choudhury, E. Katsevich. *Computationally efficient and statistically accurate conditional independence testing with spaCRT*. Preprint. ([paper](https://arxiv.org/pdf/2407.08911v3), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
 - S. Mukherjee, Z. Niu, S. Halder, B. B. Bhattacharya, G. Michailidis. *High Dimensional Logistic Regression Under Network Dependence*. **Journal of Machine Learning Research**. ([paper](https://arxiv.org/abs/2110.03200))
 - Z. Niu, Y. Gu, W. Li. *Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression*. Major revision at **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2204.00111), [slides](https://ziangniu6.github.io/files/HDIV_additive_Slides.pdf))
 
