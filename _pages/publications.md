@@ -17,7 +17,7 @@ Genomic/Genetic application-oriented methodologies
 - Z. Niu, J. R. Choudhury, E. Katsevich. *The conditional saddlepoint approximation for
 fast and accurate large-scale hypothesis testing*. Preprint. ([paper](https://arxiv.org/pdf/2407.08911v3), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
 - S. Mukherjee, Z. Niu, S. Halder, B. B. Bhattacharya, G. Michailidis. *High Dimensional Logistic Regression Under Network Dependence*. **Journal of Machine Learning Research**. ([paper](https://arxiv.org/abs/2110.03200))
-- Z. Niu, Y. Gu, W. Li. *Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression*. Major revision at **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2204.00111), [slides](https://ziangniu6.github.io/files/HDIV_additive_Slides.pdf))
+- Z. Niu, Y. Gu, W. Li. *Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression*. Minor revision at **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2204.00111), [slides](https://ziangniu6.github.io/files/HDIV_additive_Slides.pdf))
 
 Computationally efficient testing methods
 -======
@@ -27,7 +27,7 @@ Computationally efficient testing methods
 
 Robust and powerful hypothesis testing methods
 -======
-- Z. Niu, Z. Ren. *Assumption-lean weak limits and tests for two-stage adaptive experiments*. Preprint. ([paper](https://arxiv.org/pdf/2505.10747), [code](https://github.com/ZiangNiu6/AdaInf-manuscript), [slides](https://ziangniu6.github.io/files/ISSI-adaptive-experiments.pdf))
+- Z. Niu, Z. Ren. *Assumption-lean weak limits and tests for two-stage adaptive experiments*. Reject with resubmission at **Journal of the Royal Statistical Society: Series B**. Preprint. ([paper](https://arxiv.org/pdf/2505.10747), [code](https://github.com/ZiangNiu6/AdaInf-manuscript), [slides](https://ziangniu6.github.io/files/ISSI-adaptive-experiments.pdf))
 - Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Major revision at **Journal of the American Statistical Association**. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/RJdCov-project))
 - Z. Niu, A. Chakraborty, O. Dukes, E. Katsevich. *Reconciling model-X and doubly robust approaches to
 conditional independence testing*. **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1), [slides](https://ziangniu6.github.io/files/Larry_Brown_award_2024.pdf))
