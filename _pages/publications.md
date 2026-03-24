@@ -10,7 +10,7 @@ Genomics research with rigorous statistical guarantee
 -======
 - T. Barry, Z. Niu, E. Katsevich, X. Lin. *The permuted score test for robust differential expression analysis*. Preprint. ([paper](https://arxiv.org/pdf/2501.03530))
 - Z. Niu, J. R. Choudhury, E. Katsevich. *The conditional saddlepoint approximation for
-fast and accurate large-scale hypothesis testing*. Preprint. ([paper](https://arxiv.org/pdf/2407.08911v3), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
+fast and accurate large-scale hypothesis testing*. Preprint. Reject with resubmission at **Biometrika**. ([paper](https://arxiv.org/pdf/2407.08911v4), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
 
 
 
