@@ -10,9 +10,9 @@ Statistical software for single-cell CRISPR screens
 ======
 
 <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1.75em;">
-  <div style="flex: 0 0 130px; text-align: center;">
+  <div style="flex: 0 0 120px; text-align: center;">
     <a href="https://github.com/Katsevich-Lab/spacrt">
-      <img src="/images/spacrt-logo.png" style="max-width: 130px; max-height: 150px;" alt="spacrt hex logo"/>
+      <img src="/images/spacrt-logo.png" style="height: 110px; width: auto; max-width: 120px;" alt="spacrt hex logo"/>
     </a>
   </div>
   <div>
@@ -21,9 +21,9 @@ Statistical software for single-cell CRISPR screens
 </div>
 
 <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1.75em;">
-  <div style="flex: 0 0 130px; text-align: center;">
+  <div style="flex: 0 0 120px; text-align: center;">
     <a href="https://github.com/Katsevich-Lab/perturbplanApp">
-      <img src="/images/perturbplanApp-logo.png" style="max-width: 130px; max-height: 150px;" alt="perturbplanApp hex logo"/>
+      <img src="/images/perturbplanApp-logo.png" style="height: 110px; width: auto; max-width: 120px;" alt="perturbplanApp hex logo"/>
     </a>
   </div>
   <div>
