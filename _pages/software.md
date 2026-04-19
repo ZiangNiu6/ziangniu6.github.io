@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Power softwares for single-cell CRISPR biology
+Statistical software for single-cell CRISPR screens
 ======
 
 <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1.75em;">
@@ -16,7 +16,7 @@ Power softwares for single-cell CRISPR biology
     </a>
   </div>
   <div>
-    <strong>spacrt</strong> — An R package implementing the saddlepoint approximation-based conditional randomization and independence tests for fast and accurate large-scale hypothesis testing. (<a href="https://github.com/Katsevich-Lab/spacrt">GitHub</a>, <a href="https://arxiv.org/pdf/2407.08911v4">paper</a>, <a href="https://github.com/Katsevich-Lab/spacrt-manuscript">code</a>)
+    <strong>spacrt</strong> — An R package implementing saddlepoint-approximation-based conditional randomization and independence tests for fast and accurate large-scale hypothesis testing. (<a href="https://github.com/Katsevich-Lab/spacrt">GitHub</a>, <a href="https://arxiv.org/pdf/2407.08911v4">paper</a>, <a href="https://github.com/Katsevich-Lab/spacrt-manuscript">code</a>)
   </div>
 </div>
 
@@ -27,6 +27,6 @@ Power softwares for single-cell CRISPR biology
     </a>
   </div>
   <div>
-    <strong>perturbplanApp</strong> — An interactive Shiny application for designing and planning single-cell CRISPR perturbation experiments, providing power and sample-size guidance for practitioners. (<a href="https://github.com/Katsevich-Lab/perturbplanApp">GitHub</a>)
+    <strong>perturbplanApp</strong> — An interactive Shiny app for planning single-cell CRISPR perturbation experiments, offering power and sample-size guidance to practitioners. (<a href="https://github.com/Katsevich-Lab/perturbplanApp">GitHub</a>)
   </div>
 </div>
