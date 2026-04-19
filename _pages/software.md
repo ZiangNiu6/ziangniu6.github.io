@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Software for rigorous hypothesis testing and experimental design
+Statistical tools for large-scale perturbation genomics
 ======
 
 <div style="text-align: center !important; margin: 1em 0 1.75em;">
