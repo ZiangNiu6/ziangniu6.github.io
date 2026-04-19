@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: "Software"
+title: "Statistical tools for large-scale perturbation genomics"
 permalink: /software/
 author_profile: true
 ---
-
-
-Statistical tools for large-scale perturbation genomics
-======
 
 <div style="text-align: center !important; margin: 1em 0 1.75em;">
   <a href="https://github.com/Katsevich-Lab/spacrt" style="display: inline-block; margin: 0 0.4em;"><img src="/images/spacrt-logo.png" style="height: 140px; vertical-align: middle;" alt="spacrt hex logo"/></a>
