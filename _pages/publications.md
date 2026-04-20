@@ -20,6 +20,4 @@ Selected past publications
 - Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Major revision at **Journal of the American Statistical Association**. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/RJdCov-project))
 - Z. Niu, A. Chakraborty, O. Dukes, E. Katsevich. *Reconciling model-X and doubly robust approaches to
 conditional independence testing*. **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1), [slides](https://ziangniu6.github.io/files/Larry_Brown_award_2024.pdf))
-- Z. Niu, J. Meier, F-X, Briol. *Discrepancy-based Inference for Intractable Generative Models using Quasi-Monte Carlo*. **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2106.11561), [poster](https://ziangniu6.github.io/files/QMC_Poster.pdf), [slides](https://ziangniu6.github.io/files/LIKE_Talk.pdf), [video](https://ziangniu6.github.io/files/LIKE.mp4))
-- Z. Niu, Y. Gu, W. Li. *Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression*. Minor revision at **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2204.00111), [slides](https://ziangniu6.github.io/files/HDIV_additive_Slides.pdf))
 
