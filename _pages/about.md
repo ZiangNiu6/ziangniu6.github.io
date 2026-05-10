@@ -15,7 +15,7 @@ I'm a PhD student at the [Department of Statistics and Data Science](https://sta
 
 Modern large-scale CRISPR perturbation experiments demand statistical methods that address **calibration, power, and computation jointly** — progress on any single axis is negated by weaknesses on the others. My research develops such methods along three complementary fronts:
 
-- **Calibration and robustness.** I develop perturbation-based testing — resampling, permutation, and subsampling — to achieve sharp Type-I error control in challenging regimes such as low signal-to-noise ratio and complex null dependence, where classical asymptotic approximations break down.
+- **Calibration and robustness.** I develop perturbation-based testing — resampling, permutation, and subsampling — to achieve sharp Type-I error control in challenging regimes such as low signal-to-noise ratio and complex null dependence, where classical statistical practices break down.
 
 - **Power.** I study compound power analysis along two complementary tracks: (i) designing practical platforms that directly help genomicists plan their experiments, and (ii) developing rigorous theory through the compound decision framework and nonparametric techniques to underpin new, statistically principled experimental designs.
 
