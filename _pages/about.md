@@ -17,6 +17,6 @@ I am fascinated by the success of perturbation genomics, with CRISPR technology 
 
 - **Calibration and robustness.** Perturbation-based testing — resampling, permutation, and subsampling — for sharp Type-I error control under low signal-to-noise ratio and complex null dependence.
 - **Power.** Compound power analysis along two tracks: practical platforms for experimental design, and theory through the compound decision framework and nonparametric techniques.
-- **Computation.** Mathematical theory drawing on classical asymptotic analysis and random geometric graph models (e.g., nearest-neighbor constructions) to keep methods scalable and provably reliable.
+- **Computation.** Mathematical theory drawing on classical asymptotic analysis and random geometric graph models to keep methods scalable and provably reliable.
 
 In addition to research, I'm passionate about teaching and mentoring since I am deeply grateful for and benefit from the supervisors I have met, who have taught me far beyond just statistics. I have been a mentor for [Undergraduate Research in Probability and Statistics](https://sites.google.com/view/urps-penn?pli=1) and [Directed Reading Program](https://www2.math.upenn.edu/~tbraz/drp/) at UPenn. 
