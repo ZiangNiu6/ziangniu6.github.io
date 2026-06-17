@@ -1,2 +1,7 @@
 _site/
 .DS_Store
+
+# CV LaTeX source and build artifacts (push only the compiled PDF)
+files/CV/*
+!files/CV/
+!files/CV/*.pdf
