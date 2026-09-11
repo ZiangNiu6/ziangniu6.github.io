@@ -10,5 +10,5 @@ author_profile: true
   <a href="https://github.com/Katsevich-Lab/perturbplanApp" style="display: inline-block; margin: 0 0.4em;"><img src="/images/perturbplanApp-logo.png" style="height: 140px; vertical-align: middle;" alt="perturbplanApp hex logo"/></a>
 </div>
 
-- [**spacrt**](https://github.com/Katsevich-Lab/spacrt): an R package implementing saddlepoint-approximation-based conditional randomization and independence tests for fast and accurate large-scale hypothesis testing. ([paper](https://arxiv.org/pdf/2407.08911v4), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
+- [**spacrt**](https://github.com/Katsevich-Lab/spacrt): an R package implementing saddlepoint-approximation-based conditional randomization and independence tests for fast and accurate large-scale hypothesis testing. ([paper](https://arxiv.org/pdf/2407.08911v5), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
 - [**perturbplanApp**](https://github.com/Katsevich-Lab/perturbplanApp): an interactive Shiny app for planning single-cell CRISPR perturbation experiments, offering power and sample-size guidance to practitioners.

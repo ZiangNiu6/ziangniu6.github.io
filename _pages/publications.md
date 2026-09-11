@@ -10,8 +10,7 @@ Genomics research with rigorous statistical guarantee
 -======
 - Z. Niu, Y. He, J. Galante, A. R. Gschwind, J. Ray, L. M. Steinmetz, J. M. Engreitz, E. Katsevich. *PerturbPlan: An analytical framework for designing Perturb-seq experiments*. Under review at **Nature Methods**. ([paper](https://www.biorxiv.org/content/10.64898/2026.05.22.727199v1.full.pdf), [code](https://github.com/Katsevich-Lab/perturbplan-replication), [shiny app](https://katsevich-lab-perturbplan.share.connect.posit.cloud/))
 - T. Barry, Z. Niu, E. Katsevich, X. Lin. *The permuted score test for robust differential expression analysis*. Preprint. ([paper](https://arxiv.org/pdf/2501.03530))
-- Z. Niu, J. R. Choudhury, E. Katsevich. *The conditional saddlepoint approximation for
-fast and accurate large-scale hypothesis testing*. Under revision at **Biometrika**. ([paper](https://arxiv.org/pdf/2407.08911v4), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
+- Z. Niu, Z. Huang, J. Ray Choudhury, E. Katsevich. *Saddlepoint approximations for plug-in resampling*. Under revision at **Biometrika**. ([paper](https://arxiv.org/pdf/2407.08911v5), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
 
 
 
