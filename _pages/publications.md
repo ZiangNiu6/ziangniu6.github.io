@@ -20,4 +20,4 @@ author_profile: true
 
 - Z. Niu, J. Meier, F.-X. Briol. *Discrepancy-based inference for intractable generative models using Quasi-Monte Carlo*. **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2106.11561), [code](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC))
 - A. Chatterjee, Z. Niu, B. B. Bhattacharya. *A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors*. Preprint. ([paper](https://arxiv.org/abs/2407.16550), [code](https://github.com/anirbanc96/ECMMD-CondTwoSamp))
-- Z. Niu, Z. Huang, J. Ray Choudhury, E. Katsevich. *Saddlepoint approximations for plug-in resampling*. Under revision at **Biometrika**. ([paper](https://arxiv.org/pdf/2407.08911v5), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
+- Z. Niu, Z. Huang, J. Ray Choudhury, E. Katsevich. *Saddlepoint approximations for plug-in resampling*. Accepted at **Biometrika**. ([paper](https://arxiv.org/pdf/2407.08911v5), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
