@@ -12,7 +12,7 @@ author_profile: true
 
 ## Robust testing methods
 
-- Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Under revision at **Journal of the American Statistical Association**. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/RJdCov-project))
+- Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Accepted at **Journal of the American Statistical Association**. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/RJdCov-project))
 - Z. Niu, A. Chakraborty, O. Dukes, E. Katsevich. *Reconciling model-X and doubly robust approaches to conditional independence testing*. **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1), [slides](https://ziangniu6.github.io/files/Larry_Brown_award_2024.pdf))
 - J. Ai, Z. Niu. *Conditional independence testing through marginal permutation*. Preprint. ([paper](https://arxiv.org/abs/2611.03255))
 
