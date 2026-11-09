@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
+crispr_decoration: true
 redirect_from: 
   - /about/
   - /about.html

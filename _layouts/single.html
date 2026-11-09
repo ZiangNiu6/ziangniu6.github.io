@@ -14,7 +14,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main"{% if page.crispr_decoration %} class="has-crispr-decoration"{% endif %}>
+  {% if page.crispr_decoration %}{% include crispr-decoration.html %}{% endif %}
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">

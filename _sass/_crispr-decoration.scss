@@ -1,0 +1,64 @@
+/* Quiet, homepage-only illustrations in the existing right-hand gutter. */
+.crispr-decoration {
+  display: none;
+}
+
+@media screen {
+  @include breakpoint($large) {
+    .has-crispr-decoration {
+      position: relative;
+      isolation: isolate;
+
+      .sidebar,
+      .page {
+        position: relative;
+        z-index: 1;
+      }
+
+      .page__inner-wrap {
+        background-color: $background-color;
+      }
+    }
+
+    .crispr-decoration {
+      display: block;
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      z-index: 0;
+      pointer-events: none;
+      user-select: none;
+
+      &__figure {
+        position: absolute;
+        right: -20px;
+        width: clamp(200px, 20vw, 280px);
+        /* Share the page height so all three illustrations stay separated. */
+        height: calc((100% - 32px) / 3);
+        max-height: 280px;
+        opacity: 0.17;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right center;
+      }
+
+      &__figure--activation {
+        top: 0;
+        background-image: url("../../images/decorations/crispra-background.jpg");
+        transform: rotate(-6deg);
+      }
+
+      &__figure--repression {
+        top: 50%;
+        background-image: url("../../images/decorations/crispri-background.jpg");
+        transform: translateY(-50%) rotate(5deg);
+      }
+
+      &__figure--editing {
+        bottom: 0;
+        background-image: url("../../images/decorations/crispr-editing-background.jpg");
+        transform: rotate(-4deg);
+      }
+    }
+  }
+}

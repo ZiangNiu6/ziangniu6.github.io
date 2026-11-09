@@ -1,72 +1,47 @@
-/*
-* Greedy Navigation
-*
-* http://codepen.io/lukejacksonn/pen/PwmwWV
-*
-*/
+/* Desktop links and a compact mobile navigation menu. */
 
 var $nav = $('#site-nav');
 var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
+// Matches the theme's $small breakpoint (600px, converted to ems).
+var desktopNav = window.matchMedia('(min-width: 37.5em)');
 
-function updateNav() {
-
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
-
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
-
-    // Record the width of the list
-    breaks.push($vlinks.width());
-
-    // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
-
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
-
-  // The visible list is not overflowing
-  } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
-    }
-  }
-
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
-  }
-
+function closeNav() {
+  $hlinks.addClass('hidden');
+  $btn.removeClass('close').attr('aria-expanded', 'false');
 }
 
-// Window listeners
+function updateNav() {
+  closeNav();
 
-$(window).resize(function() {
-  updateNav();
-});
+  if (desktopNav.matches) {
+    $hlinks.children().appendTo($vlinks);
+    $btn.addClass('hidden');
+  } else {
+    $vlinks.children().slice(1).appendTo($hlinks);
+    $btn.removeClass('hidden');
+  }
+}
+
+if (desktopNav.addEventListener) {
+  desktopNav.addEventListener('change', updateNav);
+} else {
+  desktopNav.addListener(updateNav);
+}
 
 $btn.on('click', function() {
-  $hlinks.toggleClass('hidden');
-  $(this).toggleClass('close');
+  var expanded = $btn.attr('aria-expanded') === 'true';
+  $hlinks.toggleClass('hidden', expanded);
+  $btn.toggleClass('close', !expanded).attr('aria-expanded', String(!expanded));
+});
+
+$nav.on('keydown', function(event) {
+  if ((event.key === 'Escape' || event.which === 27) && $btn.attr('aria-expanded') === 'true') {
+    closeNav();
+    $btn.trigger('focus');
+  }
 });
 
 updateNav();
