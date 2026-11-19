@@ -15,10 +15,10 @@ author_profile: true
 
 - Z. Niu, B. B. Bhattacharya. *Distribution-free joint independence testing and robust independent component analysis using optimal transport*. Accepted at **Journal of the American Statistical Association**. ([paper](https://arxiv.org/abs/2211.15639), [code](https://github.com/ZiangNiu6/RJdCov-project))
 - Z. Niu, A. Chakraborty, O. Dukes, E. Katsevich. *Reconciling model-X and doubly robust approaches to conditional independence testing*. **Annals of Statistics**. ([paper](https://arxiv.org/abs/2211.14698), [code](https://github.com/Katsevich-Lab/symcrt-manuscript-v1), [slides](https://ziangniu6.github.io/files/Larry_Brown_award_2024.pdf))
-- J. Ai, Z. Niu. *Conditional independence testing through marginal permutation*. Preprint. ([paper](https://arxiv.org/abs/2611.03255))
+- J. Ai, Z. Niu. *Conditional independence testing through marginal permutation*. Preprint. ([paper](https://arxiv.org/abs/2611.03255), [code](https://github.com/ZiangNiu6/PCIT-reproduction-code))
 
 ## Computationally efficient inferential methods for scientific research
 
 - Z. Niu, J. Meier, F.-X. Briol. *Discrepancy-based inference for intractable generative models using Quasi-Monte Carlo*. **Electronic Journal of Statistics**. ([paper](https://arxiv.org/abs/2106.11561), [code](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC))
 - Z. Niu, Z. Huang, J. Ray Choudhury, E. Katsevich. *Saddlepoint approximations for plug-in resampling*. Accepted at **Biometrika**. ([paper](https://arxiv.org/pdf/2407.08911v5), [code](https://github.com/Katsevich-Lab/spacrt-manuscript))
-- Z. Huang, Z. Niu. *Computationally efficient goodness-of-fit tests through kernelized Stein discrepancy*. Under revision at **Journal of the Royal Statistical Society: Series B**. ([paper](https://arxiv.org/abs/2512.20007))
+- Z. Huang, Z. Niu. *Computationally efficient goodness-of-fit tests through kernelized Stein discrepancy*. Under revision at **Journal of the Royal Statistical Society: Series B**. ([paper](https://arxiv.org/abs/2512.20007), [code](https://github.com/ZiangNiu6/SKSD-reproduction-code))
