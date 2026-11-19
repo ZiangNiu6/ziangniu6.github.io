@@ -11,6 +11,6 @@ author_profile: true
   <a href="https://github.com/ZiangNiu6/perglm" style="display: inline-block; margin: 0 0.4em;"><img src="/images/perglm-logo.png" style="height: 140px; vertical-align: middle;" alt="perglm hex logo"/></a>
 </div>
 
-- [**spacrt**](https://github.com/Katsevich-Lab/spacrt): an R package implementing saddlepoint-approximation-based conditional randomization and independence tests for fast and accurate large-scale hypothesis testing.
-- [**perturbplanApp**](https://github.com/Katsevich-Lab/perturbplanApp): an interactive Shiny app for planning single-cell CRISPR perturbation experiments, offering power and sample-size guidance to practitioners.
+- [**spacrt**](https://github.com/Katsevich-Lab/spacrt): an R package implementing saddlepoint-approximation-based conditional randomization and independence tests for fast and accurate large-scale hypothesis testing. ([paper](https://arxiv.org/pdf/2407.08911v5))
+- [**perturbplanApp**](https://github.com/Katsevich-Lab/perturbplanApp): an interactive Shiny app for planning single-cell CRISPR perturbation experiments, offering power and sample-size guidance to practitioners. ([paper](https://www.biorxiv.org/content/10.64898/2026.05.22.727199v1.full.pdf))
 - [**perglm**](https://github.com/ZiangNiu6/perglm): an R package implementing permutation-calibrated, empirically studentized score tests for an exposure in generalized linear models. ([paper](https://arxiv.org/abs/2611.03255))
