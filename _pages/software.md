@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: center; justify-items: center; gap: 1em; margin: 1em 0 1.75em;">
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: center; justify-items: center; gap: 10px; max-width: 440px; margin: 1em auto 1.75em;">
   <a href="https://github.com/Katsevich-Lab/spacrt" style="display: block; width: 100%; max-width: 140px; min-width: 0;"><img src="/images/spacrt-logo.png" style="display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain;" alt="spacrt hex logo"/></a>
   <a href="https://github.com/Katsevich-Lab/perturbplanApp" style="display: block; width: 100%; max-width: 140px; min-width: 0;"><img src="/images/perturbplanApp-logo.png" style="display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain;" alt="perturbplanApp hex logo"/></a>
   <a href="https://github.com/ZiangNiu6/perglm" style="display: block; width: 100%; max-width: 140px; min-width: 0;"><img src="/images/perglm-logo.png" style="display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain;" alt="perglm hex logo"/></a>
