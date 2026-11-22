@@ -48,6 +48,20 @@
   font-size: $type-size-4;
 }
 
+.research-vision-diagram {
+  display: block;
+  width: 100%;
+  max-width: 36rem;
+  margin: 1.5em auto 2em;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+}
+
 .page__content {
 
   h2 {
