@@ -14,7 +14,7 @@ About me
 
 I'm a PhD student at the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/), Wharton School. 
 
-I am fascinated by the success of perturbation genomics, with CRISPR technology as the leading example. In modern genomics, statistical methods must address **calibration, power, and computation jointly** — weaknesses on any one axis undermine the value of the others. My research advances all three fronts:
+I am fascinated by the success of perturbation genomics, with CRISPR technology as the leading example. Realizing the full potential of CRISPR experiments requires statistical methods that address **calibration, power, and computation jointly** — weaknesses on any one axis undermine the value of the others. My research advances all three fronts:
 
 - **Calibration and robustness.** Perturbation-based testing (e.g., resampling, permutation, and subsampling) for sharp Type-I error control under low signal-to-noise ratio and complex null dependence. **Representative works:** [pcit](https://arxiv.org/abs/2611.03255), [symcrt](https://arxiv.org/abs/2211.14698).
 - **Power.** Compound power analysis along two tracks: practical platforms for experimental design, and theory through the compound decision framework and nonparametric techniques. **Representative works:** [PerturbPlan](https://www.biorxiv.org/content/10.64898/2026.05.22.727199v1.full.pdf).
