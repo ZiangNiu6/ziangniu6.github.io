@@ -1,8 +1,8 @@
 # main links links
 main:
-  - title: "Research Vision"
-    url: /research-vision/
   - title: "Publications"
     url: /publications/
   - title: "Software"
     url: /software/
+  - title: "Research Vision"
+    url: /research-vision/
