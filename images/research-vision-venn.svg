@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 540" width="600" height="540" role="img" aria-labelledby="vision-title vision-description">
   <title id="vision-title">Three principles for research impact</title>
-  <desc id="vision-description">Three equally sized circles represent Statistical Innovation, Scientific Relevance, and Practical Usability. Their shared intersection is labeled Impact and Adoption.</desc>
+  <desc id="vision-description">Three equally sized circles represent Statistical Innovation, Scientific Importance, and Practical Usability. Their shared intersection is labeled Impact and Adoption.</desc>
 
   <circle cx="210" cy="190" r="180" fill="#6fa8dc" fill-opacity="0.28" stroke="#3e78a5" stroke-width="2"/>
   <circle cx="390" cy="190" r="180" fill="#57b7a0" fill-opacity="0.28" stroke="#368a75" stroke-width="2"/>
@@ -13,7 +13,7 @@
     </text>
     <text x="460" y="113" fill="#225d52">
       <tspan x="460">Scientific</tspan>
-      <tspan x="460" dy="36">Relevance</tspan>
+      <tspan x="460" dy="36">Importance</tspan>
     </text>
     <text x="300" y="428" fill="#80540f">
       <tspan x="300">Practical</tspan>
