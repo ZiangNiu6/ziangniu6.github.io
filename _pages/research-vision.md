@@ -15,6 +15,8 @@ Rapid advances in AI give this relationship renewed urgency. AI tools can help r
   <img src="{{ '/images/research-vision-venn.svg' | relative_url }}?v={{ site.time | date: '%s' }}" width="600" height="540" alt="Impact and adoption at the intersection of statistical innovation, scientific importance, and practical utility.">
 </figure>
 
+Concretely, my research balances three complementary priorities: statistical innovation, scientific importance, and practical utility.
+
 **Statistical Innovation.** I aim to develop new statistical ideas that overcome important limitations of existing methods. This includes improving the reliability of inference under realistic conditions, using limited data more effectively, and making principled analyses feasible at scale. Mathematical theory helps establish when a method works, which assumptions it requires, and where it may fail. I value methodological advances that expand what scientists can learn from their data and provide a clear basis for trusting the resulting conclusions.
 
 **Scientific Importance.** I focus on questions whose answers can advance scientific understanding or change how experiments are designed. Engagement with domain scientists helps identify the sources of uncertainty, experimental constraints, and scientific distinctions that a statistical method must address. These considerations shape the target of inference, the modeling assumptions, and the criteria for success throughout a project. I evaluate progress through its scientific consequences: whether conclusions become more trustworthy, meaningful effects become detectable, or experimental resources can be used more effectively.
